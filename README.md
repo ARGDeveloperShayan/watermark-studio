@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ARGDeveloperShayan/watermark-studio">
+  <a href="https://github.com/ARGDeveloperShayaN/watermark-studio">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     A Persian-language desktop studio for applying single or tiled watermarks to entire image folders — with live preview, batch processing, and cancel support.
     <br />
-    <a href="https://github.com/ARGDeveloperShayan/watermark-studio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ARGDeveloperShayaN/watermark-studio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ARGDeveloperShayan/watermark-studio">View Demo</a>
+    <a href="https://github.com/ARGDeveloperShayaN/watermark-studio">View Demo</a>
     &middot;
-    <a href="https://github.com/ARGDeveloperShayan/watermark-studio/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ARGDeveloperShayaN/watermark-studio/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/ARGDeveloperShayan/watermark-studio/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ARGDeveloperShayaN/watermark-studio/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -82,8 +82,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Watermark Studio is a single-file Python desktop application for batch-watermarking image folders. It is designed for users who need to apply a logo or watermark consistently across many images without opening a full image editor for each file.
 
@@ -127,7 +125,7 @@ The application runs locally with Python 3 and Tkinter. It does not require an i
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ARGDeveloperShayan/watermark-studio.git
+   git clone https://github.com/ARGDeveloperShayaN/watermark-studio.git
    cd watermark-studio
    ```
 2. Install Pillow:
@@ -184,7 +182,7 @@ The UI is organized into five numbered sections.
 - [ ] Optional command-line batch mode
 - [ ] Per-image position overrides
 
-See the [open issues](https://github.com/ARGDeveloperShayan/watermark-studio/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/ARGDeveloperShayaN/watermark-studio/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,8 +206,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/ARGDeveloperShayan/watermark-studio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ARGDeveloperShayan/watermark-studio" alt="contrib.rocks image" />
+<a href="https://github.com/ARGDeveloperShayaN/watermark-studio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ARGDeveloperShayaN/watermark-studio" alt="contrib.rocks image" />
 </a>
 
 
@@ -226,9 +224,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) - your.email@gmail.com
+Your Name - shayannateghi90@gmail.com
 
-Project Link: [https://github.com/ARGDeveloperShayan/watermark-studio](https://github.com/ARGDeveloperShayan/watermark-studio)
+Project Link: [https://github.com/ARGDeveloperShayaN/watermark-studio](https://github.com/ARGDeveloperShayaN/watermark-studio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,16 +246,16 @@ Project Link: [https://github.com/ARGDeveloperShayan/watermark-studio](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ARGDeveloperShayan/watermark-studio.svg?style=for-the-badge
-[contributors-url]: https://github.com/ARGDeveloperShayan/watermark-studio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ARGDeveloperShayan/watermark-studio.svg?style=for-the-badge
-[forks-url]: https://github.com/ARGDeveloperShayan/watermark-studio/network/members
-[stars-shield]: https://img.shields.io/github/stars/ARGDeveloperShayan/watermark-studio.svg?style=for-the-badge
-[stars-url]: https://github.com/ARGDeveloperShayan/watermark-studio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ARGDeveloperShayan/watermark-studio.svg?style=for-the-badge
-[issues-url]: https://github.com/ARGDeveloperShayan/watermark-studio/issues
-[license-shield]: https://img.shields.io/github/license/ARGDeveloperShayan/watermark-studio.svg?style=for-the-badge
-[license-url]: https://github.com/ARGDeveloperShayan/watermark-studio/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ARGDeveloperShayaN/watermark-studio.svg?style=for-the-badge
+[contributors-url]: https://github.com/ARGDeveloperShayaN/watermark-studio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ARGDeveloperShayaN/watermark-studio.svg?style=for-the-badge
+[forks-url]: https://github.com/ARGDeveloperShayaN/watermark-studio/network/members
+[stars-shield]: https://img.shields.io/github/stars/ARGDeveloperShayaN/watermark-studio.svg?style=for-the-badge
+[stars-url]: https://github.com/ARGDeveloperShayaN/watermark-studio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ARGDeveloperShayaN/watermark-studio.svg?style=for-the-badge
+[issues-url]: https://github.com/ARGDeveloperShayaN/watermark-studio/issues
+[license-shield]: https://img.shields.io/github/license/ARGDeveloperShayaN/watermark-studio.svg?style=for-the-badge
+[license-url]: https://github.com/ARGDeveloperShayaN/watermark-studio/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/your_linkedin_username
 [product-screenshot]: images/screenshot.png
@@ -267,6 +265,4 @@ Project Link: [https://github.com/ARGDeveloperShayan/watermark-studio](https://g
 [Tkinter-url]: https://docs.python.org/3/library/tkinter.html
 [Pillow.py]: https://img.shields.io/badge/Pillow-5A9FD4?style=for-the-badge&logo=python&logoColor=white
 [Pillow-url]: https://python-pillow.org/
-```
-
 This version keeps the template’s visual structure intact while replacing the QR-code content with accurate Watermark Studio features from your second source file.
